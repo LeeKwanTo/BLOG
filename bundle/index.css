@@ -405,7 +405,7 @@ a:hover {
 	border-radius: 70px;
 	background-size: cover;
 	background-repeat: no-repeat;
-	border: 20px solid #fff
+	border: 0px solid #fff
 }
 
 .main.article .author .avatar:before {
@@ -781,7 +781,7 @@ a:hover {
 	background-color: #fcfcfc;
 	clear: both;
 	position: relative;
-	height: 32px;
+	height: 35px;
 	margin-top: -36px
 }
 

@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>李钧钧博客</title>
   <id>https://leekwanto.github.io.</id>
-  <updated>2019-01-03T10:31:51+08:00</updated>
+  <updated>2019-01-26T22:13:31+08:00</updated>
   <subtitle>一个能写点文字即将到工地报到搬砖的理工男</subtitle>
   <link href="https://leekwanto.github.io."></link>
   <author>
     <name>李钧钧博客</name>
   </author>
+  <entry>
+    <title>在工地待了一个月，我明白了支付宝为什么能成功</title>
+    <updated>2019-01-26T20:00:00+08:00</updated>
+    <id>tag:leekwanto.github.io.,2019-01-26:/190126.html</id>
+    <content type="html">&lt;p&gt;除了移动支付的便利，还有用廉价的外卖、淘宝商品掩盖了那些的充满欲望而又佛系颓废的内心&lt;/p&gt;&#xA;</content>
+    <link href="https://leekwanto.github.io./190126.html"></link>
+    <author>
+      <name>李钧钧</name>
+    </author>
+  </entry>
   <entry>
     <title>实名反对华广图书馆不占座脑残程序</title>
     <updated>2018-11-22T20:00:00+08:00</updated>
@@ -93,16 +103,6 @@
     <id>tag:leekwanto.github.io.,2017-07-21:/170721.html</id>
     <content type="html">&lt;p&gt;原因更多的，不是喜欢和以往的作对比，而是我们不会再像小时候，爱她做了个自己喜欢的内卷，穿了件喜欢的白Tee，现在即便是心动也只是适可而止的欣赏。&lt;/p&gt;&#xA;</content>
     <link href="https://leekwanto.github.io./170721.html"></link>
-    <author>
-      <name>李钧钧</name>
-    </author>
-  </entry>
-  <entry>
-    <title>工资永远是兼职最大的陷阱</title>
-    <updated>2017-07-13T18:00:00+08:00</updated>
-    <id>tag:leekwanto.github.io.,2017-07-13:/170713.html</id>
-    <content type="html">&lt;p&gt;赶紧摆脱低水平的勤奋。&lt;/p&gt;&#xA;</content>
-    <link href="https://leekwanto.github.io./170713.html"></link>
     <author>
       <name>李钧钧</name>
     </author>

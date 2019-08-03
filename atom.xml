@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>李钧钧博客</title>
   <id>https://leekwanto.github.io.</id>
-  <updated>2019-08-03T13:59:29+08:00</updated>
+  <updated>2019-08-03T14:20:42+08:00</updated>
   <subtitle>BIM/Astrology/Geomantic</subtitle>
   <link href="https://leekwanto.github.io."></link>
   <author>
     <name>李钧钧博客</name>
   </author>
+  <entry>
+    <title>我的大学前半段</title>
+    <updated>2019-08-03T15:00:00+08:00</updated>
+    <id>tag:leekwanto.github.io.,2019-08-03:/190803.html</id>
+    <content type="html">&lt;p&gt;我终于兑现了自己大学入学时的承诺&lt;/p&gt;&#xA;</content>
+    <link href="https://leekwanto.github.io./190803.html"></link>
+    <author>
+      <name>李钧钧</name>
+    </author>
+  </entry>
   <entry>
     <title>干工程，老婆和情人该如何取舍</title>
     <updated>2019-05-09T21:00:00+08:00</updated>
@@ -93,16 +103,6 @@
     <id>tag:leekwanto.github.io.,2018-04-12:/180412.html</id>
     <content type="html">&lt;p&gt;偷得浮生半日，换去相知一世。&lt;/p&gt;&#xA;</content>
     <link href="https://leekwanto.github.io./180412.html"></link>
-    <author>
-      <name>李钧钧</name>
-    </author>
-  </entry>
-  <entry>
-    <title>内向的人同样很优秀，但主流社会还是把机会留给了外向者</title>
-    <updated>2018-04-01T22:00:00+08:00</updated>
-    <id>tag:leekwanto.github.io.,2018-04-01:/180401.html</id>
-    <content type="html">&lt;p&gt;外向者认为社交活动是一种享受和放松；而内向者认为社交是必要的生存技能，却很难享受其中&lt;/p&gt;&#xA;</content>
-    <link href="https://leekwanto.github.io./180401.html"></link>
     <author>
       <name>李钧钧</name>
     </author>
